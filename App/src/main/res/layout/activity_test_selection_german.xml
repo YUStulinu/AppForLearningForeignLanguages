@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".Tests.german.TestSelectionActivityGerman">
+
+    <Button
+        android:id="@+id/button_test_speaking_german"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="100dp"
+        android:text="@string/testen_sie_das_sprechen" />
+
+    <Button
+        android:id="@+id/button_test_writing_german"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/schreibtest"
+        android:layout_below="@id/button_test_speaking_german"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="50dp" />
+
+    <Button
+        android:id="@+id/button_test_correct_answer_german"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/korrekter_antworttest"
+        android:layout_below="@id/button_test_writing_german"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="50dp" />
+
+</RelativeLayout>

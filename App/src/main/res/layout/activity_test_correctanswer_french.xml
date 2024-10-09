@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context=".Tests.french.TestCorrectAnswerActivityFrench">
+
+    <!-- Imaginea -->
+    <ImageView
+        android:id="@+id/image_view_question_german"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:src="@drawable/question_image"
+        android:scaleType="centerCrop"
+        android:adjustViewBounds="true"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true" />
+
+    <!-- Butonul 1 -->
+    <Button
+        android:id="@+id/button_option_german_1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/image_view_question_german"
+        android:layout_alignParentStart="true"
+        android:layout_marginStart="16dp"
+        android:layout_marginTop="16dp"
+        android:text="@string/option_french_1" />
+
+    <!-- Butonul 2 -->
+    <Button
+        android:id="@+id/button_option_french_2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/image_view_question_german"
+        android:layout_alignParentEnd="true"
+        android:layout_marginEnd="16dp"
+        android:layout_marginTop="16dp"
+        android:text="@string/option_french_2" />
+
+    <!-- Butonul 3 -->
+    <Button
+        android:id="@+id/button_option_french_3"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/button_option_german_1"
+        android:layout_alignParentStart="true"
+        android:layout_marginStart="16dp"
+        android:layout_marginTop="16dp"
+        android:text="@string/option_french_3" />
+
+    <!-- Butonul 4 -->
+    <Button
+        android:id="@+id/button_option_french_4"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/button_option_french_2"
+        android:layout_alignParentEnd="true"
+        android:layout_marginEnd="16dp"
+        android:layout_marginTop="16dp"
+        android:text="@string/option_french_4" />
+
+</RelativeLayout>
