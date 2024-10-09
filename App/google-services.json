@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "744146094258",
+    "project_id": "loginregisterlangmaster",
+    "storage_bucket": "loginregisterlangmaster.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:744146094258:android:8b6efd273aac3e6bbf21ab",
+        "android_client_info": {
+          "package_name": "com.example.langmaster"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDk1oWJ_mfggjKbM3vNbed3cD1QFgCy6Sc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
