@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="app_logo_background">#FFFFFF</color>
+    <color name="black">#FF000000</color>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="white">#FFFFFFFF</color>
+    <string name="answer">Answer</string>
+    <string name="antwort">Antwort</string>
+    <string name="app_name">LangMaster</string>
+    <string name="check_answer">Check Answer</string>
+    <string name="click_to_login">Click to Login</string>
+    <string name="click_to_register">Click to Register</string>
+    <string name="email">Email</string>
+    <string name="ergebnis_platzhalter">Ergebnis-Platzhalter</string>
+    <string name="espace_réservé_au_mot">Espace réservé au mot</string>
+    <string name="espace_réservé_au_résultat">Espace réservé au résultat</string>
+    <string name="falsche_antwort">Falsche antwort</string>
+    <string name="gcm_defaultSenderId" translatable="false">744146094258</string>
+    <string name="google_api_key" translatable="false">AIzaSyDk1oWJ_mfggjKbM3vNbed3cD1QFgCy6Sc</string>
+    <string name="google_app_id" translatable="false">1:744146094258:android:8b6efd273aac3e6bbf21ab</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyDk1oWJ_mfggjKbM3vNbed3cD1QFgCy6Sc</string>
+    <string name="google_storage_bucket" translatable="false">loginregisterlangmaster.appspot.com</string>
+    <string name="incorrect_answer">Incorrect Answer</string>
+    <string name="korrekte_antwort">Korrekte antwort</string>
+    <string name="korrekter_antworttest">Korrekter Antworttest</string>
+    <string name="login">Login</string>
+    <string name="logout">Logout</string>
+    <string name="n_chste">Nächste</string>
+    <string name="next">Next</string>
+    <string name="option_1">Option 1</string>
+    <string name="option_2">Option 2</string>
+    <string name="option_3">Option 3</string>
+    <string name="option_4">Option 4</string>
+    <string name="option_french_1">Option french 1</string>
+    <string name="option_french_2">Option french 2</string>
+    <string name="option_french_3">Option french 3</string>
+    <string name="option_french_4">Option french 4</string>
+    <string name="option_german_1">Option german 1</string>
+    <string name="option_german_2">Option german 2</string>
+    <string name="option_german_3">Option german 3</string>
+    <string name="option_german_4">Option german 4</string>
+    <string name="password">Password</string>
+    <string name="phrase">Phrase</string>
+    <string name="project_id" translatable="false">loginregisterlangmaster</string>
+    <string name="register">Register</string>
+    <string name="repondre">Repondre</string>
+    <string name="reponse_incorrecte">Reponse Incorrecte</string>
+    <string name="result_placeholder">Result Placeholder</string>
+    <string name="satz">Satz</string>
+    <string name="schreibtest">Schreibtest</string>
+    <string name="sentence">Sentence</string>
+    <string name="start_test">Start Test</string>
+    <string name="suivant">Suivant</string>
+    <string name="test_commence">Test commence</string>
+    <string name="test_correct_answer">Test Correct Answer</string>
+    <string name="test_la_bonne_r_ponse">Test la bonne réponse</string>
+    <string name="test_parler">Test Parler</string>
+    <string name="test_r_daction">Test Rédaction</string>
+    <string name="test_speaking">Test Speaking</string>
+    <string name="test_starten">Test starten</string>
+    <string name="test_writing">Test Writing</string>
+    <string name="testen_sie_das_sprechen">Testen Sie das Sprechen</string>
+    <string name="verifier_reponse">Verifier reponse</string>
+    <string name="word_placeholder">Word Placeholder</string>
+    <string name="wortplatzhalter">Wortplatzhalter</string>
+    <style name="Theme.LangMaster" parent="android:Theme.Material.Light.NoActionBar"/>
+</resources>
